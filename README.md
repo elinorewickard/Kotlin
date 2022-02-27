@@ -5,23 +5,20 @@ This was an excerise to practice Kotlin syntax. As someone who has mostly done P
 
 This is a TicTacToe game created in Kotlin.
 
-[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-- Intellij IDEA
+- Intellij IDEA Community Edition 2021.3.2
 - Kotlin
-- Random
+- kotlin.math.pow
 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Kotlin Offical Site](https://kotlinlang.org/)
+* [Sololearn](https://www.sololearn.com/)
 
 # Future Work
 
-* 
-* Item 2
-* Item 3
+* Actually have this run and work
+
