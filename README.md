@@ -1,9 +1,8 @@
 # Overview
 
 This was an excerise to practice Kotlin syntax. As someone who has mostly done Python within VS Code, it was an endeavor to say the least.
-{Provide a description the software that you wrote to demonstrate the Kotlin language.}
 
-This is a TicTacToe game created in Kotlin.
+This is a TicTacToe game created in Kotlin. Currently there are issues that mean it doesn't run.
 
 
 # Development Environment
